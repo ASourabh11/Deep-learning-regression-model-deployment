@@ -6,4 +6,4 @@
 
 
 ## Check the webapp for House price prediction
-[Deployment link](https://housepricepredictionmodel.herokuapp.com)
+[Deployment link](https://housepricepredictionmodel.herokuapp.com/)
